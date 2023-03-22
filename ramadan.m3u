@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",---- Arabic Islamic ----
-http://ma-iptv.com:5999/BBJIFcRcPD/a4:30:7a:1e:3c:d9/41002
 #EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Saudi Quran
 http://ma-iptv.com:5999/BBJIFcRcPD/a4:30:7a:1e:3c:d9/41003
 #EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Saudi Sunnah
