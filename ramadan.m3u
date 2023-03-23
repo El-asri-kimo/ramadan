@@ -1,5 +1,44 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| SAUDI QURAN
+http://txm.flysat.live:2089/152027057775026/152074070312443/244398
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| SAUDI QURAN HD 2
+http://txm.flysat.live:2089/152027057775026/152074070312443/244397
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| AHLU ALQURAN 2	
+http://txm.flysat.live:2089/152027057775026/152074070312443/244395
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| QURAN TV 2	
+http://txm.flysat.live:2089/152027057775026/152074070312443/244394
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| AL FATEH QURAN 2	
+http://txm.flysat.live:2089/152027057775026/152074070312443/244393
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| AL QURAIN 2	
+http://txm.flysat.live:2089/152027057775026/152074070312443/244391
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Yasser Al-Dossari	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236164
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR|Quran - Abd-Allah El-Khyat	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236161
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Mahir Al Muaiqly	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236158
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Salah Al Budair	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236157
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Ahmad Al-Ajmi	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236156
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Saoud Shuraim	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236155
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Khalid Aljelail	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236153
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Machari Afassi	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236151
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Abderrahman Al Soudais	
+http://txm.flysat.live:2089/152027057775026/152074070312443/236150
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Quran - Saad Al-Gamidi	
+http://txm.flysat.live:2089/152027057775026/152074070312443/235983
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Omar Al Kazabri	
+http://txm.flysat.live:2089/152027057775026/152074070312443/234295
+#EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| |AR| HISTOIRES DU CORAN	
+http://txm.flysat.live:2089/152027057775026/152074070312443/208322
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Saudi Quran
 http://ma-iptv.com:5999/BBJIFcRcPD/a4:30:7a:1e:3c:d9/41003
 #EXTINF:0 tvg-id="ext" group-title="Arabic Islamic",|AR| Saudi Sunnah
